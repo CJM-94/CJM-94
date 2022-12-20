@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/Java-FF7800?style=for-the-badge&logo=JAVA&logoColor=white">
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
 
 - 👋 Hi, I’m @CJM-94
 - 👀 I’m interested in ...
