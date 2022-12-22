@@ -1,6 +1,6 @@
 <h1>🖐🏻 안녕하세요!</h1>
 
-<img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/><a href="#" rel="nofollow"><img src="https://img.shields.io/badge/Notion-ffffff?style=flat&logo=Notion&logoColor=black"/></a>
+<a href="https://record-note.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/></a><a href="#" rel="nofollow"><img src="https://img.shields.io/badge/Notion-ffffff?style=flat&logo=Notion&logoColor=black"/></a>
 
 <h1>Back-end</h1>
 
