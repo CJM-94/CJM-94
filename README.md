@@ -5,7 +5,7 @@
 
 <p style="font-size:05px">
 <h5>1994.11.10</h5>
-🌟portfolio <a href="https://www.notion.so/c3512578e71c49f592a6aa9f41373c73">https://www.notion.so/c3512578e71c49f592a6aa9f41373c73</a><br>
+🌟portfolio <a href="https://www.notion.so/c3512578e71c49f592a6aa9f41373c73">https://www.notion.so/JeongMin/...</a><br>
 🌟email <a href="mailto:plogwalk@gmail.com">plogwalk@gmail.com</a><br>
 🌟tistory-blog <a href="https://record-note.tistory.com">https://record-note.tistory.com</a><br>
 </p>
