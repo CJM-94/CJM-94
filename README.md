@@ -1,6 +1,6 @@
 <h2>최정민</h2>
 
-<h4>Web Developer</h4>
+<h4>Back-end & Web Developer</h4>
 <blockquote>Java, Web</blockquote><br>
 
 <p style="font-size:05px">
